@@ -1,0 +1,3 @@
+# colorFunTime
+color fun time...
+Old messing around with Android... trust nothing in this repository.
